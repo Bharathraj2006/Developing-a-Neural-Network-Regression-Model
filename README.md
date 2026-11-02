@@ -4,10 +4,10 @@
 To develop a neural network regression model for the given dataset.
 
 ## THEORY
-Explain the problem statement
+A Study on the Relationship Between Student Scores and Hours Learned
 
 ## Neural Network Model
-Include the neural network model diagram.
+![alt text](output/neural_net_diagram.png)
 
 ## DESIGN STEPS
 ### STEP 1: 
@@ -44,9 +44,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name:
+### Name: Bharath Raj P
 
-### Register Number:
+### Register Number: 212223230031
 
 ```python
 
